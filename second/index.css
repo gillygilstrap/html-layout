@@ -1,0 +1,39 @@
+.box{
+    width: 33.33%;
+    height: 100vh;
+    display: inline-block;
+    /* margin-left: 0; */
+}
+
+#box-one {
+   background:  rgb(65,133,222);
+}
+#box-two {
+   background:  rgb(71,223,186);
+}
+#box-three {
+   background:  rgb(175,229,123);
+   position: relative;
+   text-align: center;
+}
+ 
+#img-placeholder {
+    background: rgb(202,0,26);
+    height: 20vh;
+    margin-top: 80vh;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    font-size: 24px;
+    padding-top: 20%;
+
+    
+}
+
+
+one - 65,133,222
+two - 71,223,186
+third - 175,229,123
+img - 202,0,26
